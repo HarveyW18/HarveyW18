@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/beb4b0e3-5515-4ef2-bd68-5a041084236d)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="![image](https://github.com/user-attachments/assets/957484c0-ce43-4826-8c3b-d919584dcc81)"
        alt="snake" /></a>
 </div>
 
