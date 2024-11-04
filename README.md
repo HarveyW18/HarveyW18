@@ -7,4 +7,3 @@
 - 💬 Demandez-moi à propos de Python, C#, PHP, et JavaScript.
 - 📫 Comment me joindre : [wongaharvey@gmail.com](mailto:wongaharvey@gmail.com)
 - 😄 Pronoms : il/lui
-- ⚡ Fait amusant : J'aime coder tout en écoutant du jazz.
