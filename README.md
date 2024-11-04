@@ -13,7 +13,6 @@
 <!--- snake -->
 <div align="center">
   <img  src="![image](https://github.com/user-attachments/assets/957484c0-ce43-4826-8c3b-d919584dcc81)"
-       alt="snake" /></a>
 </div>
 
 
