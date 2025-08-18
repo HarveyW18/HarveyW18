@@ -19,10 +19,14 @@ App React Native qui connecte les PMR avec des aidants bénévoles ou pros. Back
 ## Stack
 
 ```
-Backend:    Java, Spring Boot, .NET Core, Python
+Langages:   Java, Python, C#, JavaScript, PHP
+Backend:    Spring Boot, .NET, ASP.NET Core, FastAPI, Flask
 Frontend:   React, React Native, JavaFX
-Données:    PostgreSQL, Firebase, MongoDB  
-DevOps:     Docker, AWS, CI/CD
+APIs:       REST, SOAP, microservices
+Données:    PostgreSQL, SQL Server, MongoDB, Firebase, SQL, PL/SQL
+DevOps:     Docker, AWS, Git, CI/CD
+Patterns:   OOP, Clean Code, SOLID, MVC, MVVM
+Data:       Pandas, analyse de données
 ```
 
 ## Contact
