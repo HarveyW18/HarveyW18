@@ -36,4 +36,4 @@ Data:       Pandas, analyse de données
 
 ---
 
-*ECE Paris - 3ème année • Recherche alternance technique*
+*ECE Paris - 3ème année • Recherche alternance en Data & IA ou Développement*
